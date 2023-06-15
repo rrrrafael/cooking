@@ -1,5 +1,4 @@
-# Recipes
-## A recipes website
+# A cooking website
 
 This repository starts off as an assignment project from
 [The Odin project](https://www.theodinproject.com/about)'s Foundations Course.
